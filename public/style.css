@@ -1,0 +1,36 @@
+nav i {
+    font-size: 30px;
+    color: #6c03ff;
+}
+
+
+.headerText{
+    color: white;
+}
+
+.result-comments{
+    border: solid 1px black;
+    border-radius: 15px;
+    padding: 15px;
+}
+
+.box_comment{
+    border: solid 1px rgba(0, 0, 0, 0.575);
+    border-radius: 15px;
+    padding: 10px;
+    margin-bottom: 15px;
+}
+
+footer{
+    height: 50px;
+    background-color: black;
+    align-content: center;
+}
+
+footer i {
+    font-size: 30px;
+    color: white;
+    color: #6c03ff;
+}
+
+
